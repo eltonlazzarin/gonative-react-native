@@ -60,6 +60,7 @@ or
 
 # Run the app (Android)
 $ react-native run-android
+```
 
 ## :memo: License
 
@@ -68,4 +69,3 @@ This project is under the MIT license.
 ---
 
 Made with ♥ by Elton Lazzarin :wave: [Get in touch!](https://www.linkedin.com/in/eltonlazzarin/)
-```
